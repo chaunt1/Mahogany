@@ -44,4 +44,5 @@ macx {
 }
 
 DISTFILES += \
-    qml/DetailPage.qml
+    qml/DetailPage.qml \
+    qml/MainPage.qml
