@@ -7,7 +7,7 @@ Page {
 
 AppButton {
     id: appButton
-    x: 20
+    x: 30
     y: 48
     text: "V"
 
@@ -18,7 +18,7 @@ AppButton {
 
 AppButton {
     id: appButton1
-    x: 170
+    x: 180
     y: 48
     text: "P1"
 
@@ -29,7 +29,7 @@ AppButton {
 
 AppButton {
     id: appButton2
-    x: 320
+    x: 330
     y: 48
     text: "P2"
 
@@ -40,7 +40,7 @@ AppButton {
 
 AppButton {
     id: appButton3
-    x: 320
+    x: 330
     y: 108
     text: "P3"
 
@@ -51,7 +51,7 @@ AppButton {
 
 AppButton {
     id: appButton4
-    x: 320
+    x: 330
     y: 168
     text: "P4"
 
@@ -62,12 +62,22 @@ AppButton {
 
 AppButton {
     id: appButton5
-    x: 245
+    x: 255
     y: 228
     text: "P5"
 
     onClicked: {
 
     }
+}
+
+AppButton {
+    id: appButton6
+    x: 97
+    y: 108
+    width: 158
+    height: 92
+    text: "Không Gian Chung"
+    appButton6.dropShadow: true
 }
 }
