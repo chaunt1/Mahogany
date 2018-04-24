@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.5.1, 2018-04-24T17:23:56. -->
+<!-- Written by QtCreator 4.5.1, 2018-04-23T11:37:41. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{ff204686-96cd-425a-a2ae-5baab57fb652}</value>
+  <value type="QByteArray">{f430de5e-5520-45df-abca-90bb7ef776f8}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -28,13 +28,7 @@
      <value type="QByteArray" key="CurrentPreferences">QmlJSGlobal</value>
     </valuemap>
    </valuemap>
-   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.2">
-    <value type="QString" key="language">Nim</value>
-    <valuemap type="QVariantMap" key="value">
-     <value type="QByteArray" key="CurrentPreferences">NimGlobal</value>
-    </valuemap>
-   </valuemap>
-   <value type="int" key="EditorConfiguration.CodeStyle.Count">3</value>
+   <value type="int" key="EditorConfiguration.CodeStyle.Count">2</value>
    <value type="QByteArray" key="EditorConfiguration.Codec">UTF-8</value>
    <value type="bool" key="EditorConfiguration.ConstrainTooltips">false</value>
    <value type="int" key="EditorConfiguration.IndentSize">4</value>
@@ -291,8 +285,8 @@
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">untitled1</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">untitled12</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/Git/Mahogany/untitled1.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/CPU02409_LOCAL/Documents/untitled1/untitled1.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">untitled1.pro</value>

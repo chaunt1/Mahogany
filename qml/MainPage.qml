@@ -12,7 +12,7 @@ AppButton {
     text: "V"
 
     onClicked: {
-        NavigationStack.push(DetailPage, { room: room.iem})
+        NavigationStack.push(ListOrderPage)
     }
 }
 
@@ -62,7 +62,7 @@ AppButton {
 
 AppButton {
     id: appButton5
-    x: 290
+    x: 245
     y: 228
     text: "P5"
 
